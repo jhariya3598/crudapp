@@ -1,0 +1,12 @@
+{
+"posts":[
+        { "id":1,
+           "name":"hemant",
+           "username":"hemant03"
+           },
+           { "id":2,
+           "name":"hemant",
+           "username":"hemant03"
+           }
+
+]}
